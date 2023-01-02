@@ -1,0 +1,26 @@
+body{
+    /* margin: 10px 0px 0px 0px; Top,Right,Bottom,Left */
+
+    /* margin: 20px 10px;     Top/Bottom,Right,Left */
+
+    /* margin: 10px 15px 5px;   Top,left/Right,Bottom */
+    margin: 10px 15px 5px;
+    padding: 30px;
+    border: 2px solid black;
+   
+}
+
+
+.heading{
+    margin: 2px 60px 10px 60px;
+    border: 2px solid greenyellow;
+    padding: 10px;
+    font-size:xx-large;
+
+    /* Outline same as bordar */
+    outline: 2px dashed pink;
+}
+.box{
+    border: 2px solid red;
+    min-height: 200px;
+}
